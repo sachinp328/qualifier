@@ -15,4 +15,4 @@ postMerge:
   pattern:
     # glob-patterns to discover tests to run in case of postMerge
     - "**test/**/*.java"
-tier: medium
+tier: small
